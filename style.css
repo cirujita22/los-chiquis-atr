@@ -1,0 +1,10 @@
+.titulo {color: brown; font-size: 40px; font-family: cursive;}
+.saltos {color: blue; font-size: 25px; font-family: 'Trebuchet MS'; }
+.txt {color: rgb(17, 128, 67); font-size: 20px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.titulo{display: flex;
+    flex-direction: column;
+    align-items: center;}
+.img{
+    display: table-cell;
+    width: 25%;
+  }
